@@ -1,0 +1,74 @@
+.alert-success {
+    background-color: #2E5339
+}
+
+.alert-warning {
+    background-color: yellow;
+}
+
+.alert-danger {
+    background-color: red;
+}
+
+.alert-info {
+    background-color: #DD7373;
+}
+nav li{display: inline; background-color: #004777;}
+nav li a{color: #faf3dd}
+input{border-radius: 10%;}
+body{
+    background-color: #faf3dd;
+    color: #0d80b5;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; 
+}
+
+th, td {
+    border: 1px solid #004777; 
+    padding: 10px;
+    text-align: left;
+}
+
+thead {
+    background-color: #004777;
+    color: #faf3dd;
+}
+
+tbody {
+    background-color: #faf3dd;
+}
+
+.term-details table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.term-details th, .term-details td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.term-details th {
+    text-align: left;
+    background-color: #f2f2f2;
+}
+
+.slang-terms-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.slang-terms-table th, .slang-terms-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.slang-terms-table th {
+    background-color: #f2f2f2;
+}
